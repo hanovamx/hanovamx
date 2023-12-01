@@ -1,7 +1,5 @@
 # Hanova Consulting
 
-## Welcome to Hanova Consulting's GitHub!
-
 ### About Us
 Hanova is a digital transformation consulting firm dedicated to empowering businesses through innovation and simplicity. Our core focus is on developing and implementing digital strategies to enhance business opportunities. At Hanova, we bridge the gap between business and technology.
 
